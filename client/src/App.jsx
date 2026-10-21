@@ -71,7 +71,7 @@ function App() {
       )}
 
       <footer className="py-10 text-center text-sm text-slate-400">
-        Made by ASHLEY NICOLE ELMA · INF233
+        Made by AIA ORCA · INF233
       </footer>
     </div>
   );

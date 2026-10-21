@@ -2,12 +2,11 @@
 
 A full-stack product gallery website with image upload. Data and images are securely stored in MongoDB Atlas.
 
-**Student:** [Your Name] - [Your Section/Year]
+**Student:** MARIAH FRANCHESCA R. ORCA - INF233
 
 ## Live Links
-- **Website (Vercel):** [Paste your Vercel URL here after Step 52]
-- **API (Render):** [Paste your Render URL here after Step 41]
-
+- **Website (Vercel):** https://showcase-gallery-gules.vercel.app/
+- **API (Render):** https://showcase-gallery-m8ds.onrender.com
 ## Tech Stack
 - **Frontend:** React (Vite), Tailwind CSS, hosted on Vercel
 - **Backend:** Node.js, Express.js, hosted on Render
